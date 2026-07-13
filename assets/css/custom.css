@@ -1,0 +1,37 @@
+/* Mairie de Chérif Lo — base styles & utilities not covered by Tailwind's color engine */
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+.container-page {
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+  max-width: 80rem;
+}
+
+.bg-gradient-hero {
+  background-image: linear-gradient(135deg, #156338 0%, #1d7f48 55%, #2a9d5a 100%);
+}
+.bg-gradient-gold {
+  background-image: linear-gradient(135deg, #f4e942, #dcae1d);
+}
+.shadow-elegant {
+  box-shadow: 0 20px 50px -20px color-mix(in srgb, #156338 35%, transparent);
+}
+.shadow-soft {
+  box-shadow: 0 8px 30px -12px color-mix(in srgb, #156338 18%, transparent);
+}
+.text-balance { text-wrap: balance; }
+
+/* mobile nav toggle (no JS framework, plain CSS class swap) */
+#mobile-menu.hidden { display: none; }

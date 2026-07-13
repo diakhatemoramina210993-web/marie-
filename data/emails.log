@@ -1,0 +1,208 @@
+[2026-07-10 19:19:16] À: test.validation@example.com    Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour Validation Test,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-10 19:19:42] À: test.validation2@example.com   Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour Validation2 Test,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-10 19:43:42] À: awa99999@gmail.com             Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour AWA DIOP,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-10 19:48:10] À: awa99999@gmail.com             Sujet: Accusé de réception — Demande ETC-2607-547185 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour AWA DIOP,
+    Nous avons bien reçu votre demande d'acte(s) d'état civil auprès de la Mairie de Chérif Lo.
+    Acte(s) demandé(s) : Extrait d&#039;acte de naissance
+    Demandeur : AWA DIOP (Père)
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Votre code de suivi est : ETC-2607-547185
+    Vous pouvez suivre l'avancement de votre dossier à tout moment depuis « Mon espace » sur le site, avec votre compte citoyen.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-10 19:48:12] À: diakhatemoramina210993@gmail.com Sujet: Nouvelle demande d'état civil reçue — ETC-2607-547185 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Une nouvelle demande d'acte(s) d'état civil a été déposée sur le portail.
+    Acte(s) demandé(s) : Extrait d&#039;acte de naissance
+    Demandeur : AWA DIOP (Père)
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Code : ETC-2607-547185
+    Contact : awa99999@gmail.com / 775433380
+    Paiement : Wave — réf. WAVE
+    Connectez-vous à l'espace mairie pour la traiter.
+    
+
+[2026-07-10 19:48:35] À: awa99999@gmail.com             Sujet: Accusé de réception — Demande ETC-2607-EBB064 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour AWA DIOP,
+    Nous avons bien reçu votre demande d'acte(s) d'état civil auprès de la Mairie de Chérif Lo.
+    Acte(s) demandé(s) : Extrait d&#039;acte de naissance
+    Demandeur : AWA DIOP (Père)
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Votre code de suivi est : ETC-2607-EBB064
+    Vous pouvez suivre l'avancement de votre dossier à tout moment depuis « Mon espace » sur le site, avec votre compte citoyen.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-10 19:48:37] À: diakhatemoramina210993@gmail.com Sujet: Nouvelle demande d'état civil reçue — ETC-2607-EBB064 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Une nouvelle demande d'acte(s) d'état civil a été déposée sur le portail.
+    Acte(s) demandé(s) : Extrait d&#039;acte de naissance
+    Demandeur : AWA DIOP (Père)
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Code : ETC-2607-EBB064
+    Contact : awa99999@gmail.com / 775433380
+    Paiement : Wave — réf. WAVE
+    Connectez-vous à l'espace mairie pour la traiter.
+    
+
+[2026-07-10 19:54:56] À: awa99999@gmail.com             Sujet: Mise à jour de votre demande ETC-2607-EBB064 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour AWA DIOP,
+    Le statut de votre demande ETC-2607-EBB064 a été mis à jour :
+    Rejetée
+    Vous pouvez consulter le détail sur la page « Suivi de dossier » du site.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-11 02:20:27] À: design.test@example.com        Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour Test Design,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-11 02:24:49] À: babina45@gmail.com             Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour ba binta,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-11 02:55:01] À: paiement.test@example.com      Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour Test Paiement,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-11 03:12:03] À: diakhate210993@gmail.com       Sujet: Bienvenue sur le portail de la Mairie de Chérif Lo Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour MOHAMED DIAKHATE,
+    Votre compte citoyen a bien été créé. Vous pouvez désormais déposer vos demandes de documents et vos rendez-vous, et retrouver l'historique de vos démarches à tout moment depuis « Mon espace ».
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-12 04:38:53] À: diakhatemoramina210993@gmail.com Sujet: Accusé de réception — Demande ETC-2607-7BE1B0 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour Mor DIAKHATE,
+    Nous avons bien reçu votre demande d'acte(s) d'état civil auprès de la Mairie de Chérif Lo.
+    Acte(s) demandé(s) : Extrait d&#039;acte de mariage
+    Demandeur : Mor DIAKHATE (Tuteur légal)
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Votre code de suivi est : ETC-2607-7BE1B0
+    Vous pouvez suivre l'avancement de votre dossier à tout moment depuis « Mon espace » sur le site, avec votre compte citoyen.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-12 04:38:55] À: diakhatemoramina210993@gmail.com Sujet: Nouvelle demande d'état civil reçue — ETC-2607-7BE1B0 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Une nouvelle demande d'acte(s) d'état civil a été déposée sur le portail.
+    Acte(s) demandé(s) : Extrait d&#039;acte de mariage
+    Demandeur : Mor DIAKHATE (Tuteur légal)
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Code : ETC-2607-7BE1B0
+    Contact : diakhatemoramina210993@gmail.com / 78356223
+    Paiement : Wave — réf. WAVE
+    Connectez-vous à l'espace mairie pour la traiter.
+    
+
+[2026-07-12 04:42:47] À: diakhatemoramina210993@gmail.com Sujet: Mise à jour de votre demande ETC-2607-7BE1B0 Envoyé: non (SMTP non configuré — voir data/emails.log pour le contenu)
+    --- contenu ---
+    Bonjour Mor DIAKHATE,
+    Votre demande ETC-2607-7BE1B0 a été acceptée et est maintenant en cours de traitement.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-12 05:52:41] À: test@example.com               Sujet: Test sujet                                    Envoyé: non (SMTP non configuré — voir includes/mail-config.php)
+    --- contenu ---
+    Contenu de test
+    
+
+[2026-07-13 01:02:28] À: diakhatemoramina210993@gmail.com Sujet: Accusé de réception — Demande ETC-2607-34F2DD Envoyé: non (SMTP non configuré — voir includes/mail-config.php)
+    --- contenu ---
+    Bonjour Mor anta DIAKHATE,
+    Nous avons bien reçu votre demande d'acte(s) d'état civil auprès de la Mairie de Chérif Lo.
+    Acte(s) demandé(s) : Certificat de vie individuelle
+    Demandeur : Mor anta DIAKHATE (Moi-même (personne concernée))
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Votre code de suivi est : ETC-2607-34F2DD
+    Vous pouvez suivre l'avancement de votre dossier à tout moment depuis « Mon espace » sur le site, avec votre compte citoyen.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-13 01:02:30] À: diakhatemoramina210993@gmail.com Sujet: Nouvelle demande d'état civil reçue — ETC-2607-34F2DD Envoyé: non (SMTP non configuré — voir includes/mail-config.php)
+    --- contenu ---
+    Une nouvelle demande d'acte(s) d'état civil a été déposée sur le portail.
+    Acte(s) demandé(s) : Certificat de vie individuelle
+    Demandeur : Mor anta DIAKHATE (Moi-même (personne concernée))
+    Mode de délivrance : Envoi par e-mail (PDF)
+    Code : ETC-2607-34F2DD
+    Contact : diakhatemoramina210993@gmail.com / 78356223
+    Paiement : Wave — réf. WAVE
+    Connectez-vous à l'espace mairie pour la traiter.
+    
+
+[2026-07-13 01:04:43] À: diakhatemoramina210993@gmail.com Sujet: Accusé de réception — Rendez-vous RDV-2607-298C2F Envoyé: non (SMTP non configuré — voir includes/mail-config.php)
+    --- contenu ---
+    Bonjour Mor DIAKHATE,
+    Votre demande de rendez-vous auprès de la Mairie de Chérif Lo a bien été enregistrée.
+    Objet : Audience avec le Maire
+    Date souhaitée : 27/07/2026 à 10:00
+    Votre code de suivi est : RDV-2607-298C2F
+    Votre créneau est réservé et sera confirmé par nos services (statut consultable dans « Mon espace »).
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
+[2026-07-13 01:04:45] À: diakhatemoramina210993@gmail.com Sujet: Nouvelle demande de rendez-vous — RDV-2607-298C2F Envoyé: non (SMTP non configuré — voir includes/mail-config.php)
+    --- contenu ---
+    Une nouvelle demande de rendez-vous a été déposée.
+    Objet : Audience avec le Maire
+    Demandeur : Mor DIAKHATE (78356223 / diakhatemoramina210993@gmail.com)
+    Créneau : 27/07/2026 à 10:00
+    Connectez-vous à l'espace mairie pour confirmer.
+    
+
+[2026-07-13 01:06:01] À: diakhatemoramina210993@gmail.com Sujet: Votre rendez-vous RDV-2607-298C2F est confirmé Envoyé: non (SMTP non configuré — voir includes/mail-config.php)
+    --- contenu ---
+    Bonjour Mor DIAKHATE,
+    Votre rendez-vous RDV-2607-298C2F (Audience avec le Maire) du 27/07/2026 à 10:00 est confirmé.
+    Cordialement,
+    La Mairie de Chérif Lo
+    
+
