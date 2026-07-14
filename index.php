@@ -26,7 +26,7 @@ $stats = [
 <!-- HERO -->
 <section class="relative overflow-hidden bg-gradient-hero text-primary-foreground">
   <div class="absolute inset-0 opacity-40">
-    <img src="/cahier-lumineux-php/assets/img/hero-cherif-lo.jpg" alt="" class="h-full w-full object-cover" width="1920" height="1200">
+    <img src="/mairie/assets/img/hero-cherif-lo.jpg" alt="" class="h-full w-full object-cover" width="1920" height="1200">
   </div>
   <div class="absolute inset-0 bg-primary-deep/70"></div>
   <div class="container-page relative py-24 md:py-32 text-center">
@@ -89,7 +89,7 @@ $stats = [
 <section class="container-page py-24 grid lg:grid-cols-12 gap-12 items-center">
   <div class="lg:col-span-5">
     <div class="relative mt-6">
-      <img src="/cahier-lumineux-php/assets/img/maire-portrait.jpg" alt="Portrait du Maire de Chérif Lo" width="900" height="1100" loading="lazy"
+      <img src="/mairie/assets/img/maire-portrait.jpg" alt="Portrait du Maire de Chérif Lo" width="900" height="1100" loading="lazy"
         class="rounded-3xl shadow-elegant object-cover w-full aspect-[4/5]">
       <div class="absolute -bottom-6 -right-6 bg-gradient-gold text-primary-deep px-6 py-4 rounded-2xl shadow-soft">
         <div class="text-xs uppercase tracking-widest">Le Maire</div>

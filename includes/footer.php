@@ -4,7 +4,7 @@
   <div class="container-page py-16 grid gap-12 md:grid-cols-2 lg:grid-cols-4">
     <div>
       <div class="flex items-center gap-3">
-        <img src="/cahier-lumineux-php/assets/img/logo.jpg" alt="Logo Mairie de Chérif Lo" class="h-14 w-14 rounded-full bg-white p-1">
+        <img src="/mairie/assets/img/logo.jpg" alt="Logo Mairie de Chérif Lo" class="h-14 w-14 rounded-full bg-white p-1">
         <div>
           <div class="font-display text-xl">Mairie de Chérif Lo</div>
           <div class="text-xs text-primary-foreground/70 uppercase tracking-wider">République du Sénégal</div>
@@ -18,12 +18,12 @@
     <div>
       <h4 class="text-sm uppercase tracking-widest text-accent">Navigation</h4>
       <ul class="mt-4 space-y-2 text-sm text-primary-foreground/85">
-        <li><a href="/cahier-lumineux-php/mairie.php" class="hover:text-accent">La Mairie</a></li>
-        <li><a href="/cahier-lumineux-php/services.php" class="hover:text-accent">Services aux usagers</a></li>
-        <li><a href="/cahier-lumineux-php/actualites.php" class="hover:text-accent">Actualités</a></li>
-        <li><a href="/cahier-lumineux-php/affaires-sociales.php" class="hover:text-accent">Affaires sociales</a></li>
-        <li><a href="/cahier-lumineux-php/mediatheque.php" class="hover:text-accent">Médiathèque</a></li>
-        <li><a href="/cahier-lumineux-php/rendezvous.php" class="hover:text-accent">Prendre rendez-vous</a></li>
+        <li><a href="/mairie/mairie.php" class="hover:text-accent">La Mairie</a></li>
+        <li><a href="/mairie/services.php" class="hover:text-accent">Services aux usagers</a></li>
+        <li><a href="/mairie/actualites.php" class="hover:text-accent">Actualités</a></li>
+        <li><a href="/mairie/affaires-sociales.php" class="hover:text-accent">Affaires sociales</a></li>
+        <li><a href="/mairie/mediatheque.php" class="hover:text-accent">Médiathèque</a></li>
+        <li><a href="/mairie/rendezvous.php" class="hover:text-accent">Prendre rendez-vous</a></li>
       </ul>
     </div>
 
@@ -33,7 +33,7 @@
         <li class="flex gap-2"><i data-lucide="map-pin" class="h-4 w-4 mt-0.5 text-accent"></i> <?= htmlspecialchars($SETTINGS['contact_adresse'] ?? '') ?></li>
         <li class="flex gap-2"><i data-lucide="phone" class="h-4 w-4 mt-0.5 text-accent"></i> <?= htmlspecialchars($SETTINGS['contact_telephone'] ?? '') ?></li>
         <li class="flex gap-2"><i data-lucide="mail" class="h-4 w-4 mt-0.5 text-accent"></i> <?= htmlspecialchars($SETTINGS['contact_email'] ?? '') ?></li>
-        <li><a href="/cahier-lumineux-php/contact.php" class="inline-flex items-center gap-1.5 mt-1 font-medium text-accent hover:underline">Formulaire de contact <i data-lucide="arrow-right" class="h-3.5 w-3.5"></i></a></li>
+        <li><a href="/mairie/contact.php" class="inline-flex items-center gap-1.5 mt-1 font-medium text-accent hover:underline">Formulaire de contact <i data-lucide="arrow-right" class="h-3.5 w-3.5"></i></a></li>
       </ul>
     </div>
 
@@ -55,7 +55,7 @@
       <span>© <?= date("Y") ?> Mairie de Chérif Lo — Tous droits réservés</span>
       <span class="flex items-center gap-4">
         Un Sénégal digital, une commune connectée.
-        <a href="/cahier-lumineux-php/admin/login.php" class="underline decoration-white/30 hover:text-accent">Espace Mairie</a>
+        <a href="/mairie/admin/login.php" class="underline decoration-white/30 hover:text-accent">Espace Mairie</a>
       </span>
     </div>
   </div>

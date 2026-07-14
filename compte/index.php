@@ -28,14 +28,14 @@ include __DIR__ . "/../includes/header.php";
       <h1 class="font-display text-3xl md:text-4xl">Bonjour <?= htmlspecialchars($citoyen['prenom']) ?> 👋</h1>
       <p class="mt-2 text-primary-foreground/80"><?= htmlspecialchars($citoyen['telephone']) ?><?= !empty($citoyen['email']) ? ' · ' . htmlspecialchars($citoyen['email']) : '' ?></p>
     </div>
-    <a href="/cahier-lumineux-php/compte/deconnexion.php" class="rounded-full border border-white/25 px-5 py-2.5 text-sm font-medium hover:bg-white/10 transition">Déconnexion</a>
+    <a href="/mairie/compte/deconnexion.php" class="rounded-full border border-white/25 px-5 py-2.5 text-sm font-medium hover:bg-white/10 transition">Déconnexion</a>
   </div>
 </section>
 
 <section class="container-page py-16">
   <div class="flex flex-wrap gap-3 mb-10">
-    <a href="/cahier-lumineux-php/demande.php" class="rounded-full bg-primary text-primary-foreground px-5 py-2.5 text-sm font-semibold hover:bg-primary-deep transition">+ Nouvelle demande de document</a>
-    <a href="/cahier-lumineux-php/rendezvous.php" class="rounded-full border border-input px-5 py-2.5 text-sm font-medium hover:bg-secondary transition">+ Prendre rendez-vous</a>
+    <a href="/mairie/demande.php" class="rounded-full bg-primary text-primary-foreground px-5 py-2.5 text-sm font-semibold hover:bg-primary-deep transition">+ Nouvelle demande de document</a>
+    <a href="/mairie/rendezvous.php" class="rounded-full border border-input px-5 py-2.5 text-sm font-medium hover:bg-secondary transition">+ Prendre rendez-vous</a>
   </div>
 
   <div class="grid lg:grid-cols-2 gap-10">

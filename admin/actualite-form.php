@@ -139,7 +139,7 @@ include __DIR__ . '/includes/layout-top.php';
     <span class="text-foreground/85">Photo</span>
     <?php if (!empty($old['image'])): ?>
       <div class="mt-2 flex items-center gap-4">
-        <img src="/cahier-lumineux-php/assets/img/actualites/<?= htmlspecialchars($old['image']) ?>" class="h-20 w-32 object-cover rounded-lg border border-border">
+        <img src="/mairie/assets/img/actualites/<?= htmlspecialchars($old['image']) ?>" class="h-20 w-32 object-cover rounded-lg border border-border">
         <label class="flex items-center gap-2 text-xs text-muted-foreground">
           <input type="checkbox" name="remove_image" value="1"> Supprimer la photo actuelle
         </label>

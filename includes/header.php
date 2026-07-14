@@ -40,7 +40,7 @@ $SETTINGS = get_all_settings($pdo);
 <meta property="og:description" content="<?= htmlspecialchars($pageDescription) ?>">
 <meta property="og:type" content="website">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/cahier-lumineux-php/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/mairie/favicon.ico" type="image/x-icon">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -87,7 +87,7 @@ $SETTINGS = get_all_settings($pdo);
     },
   };
 </script>
-<link rel="stylesheet" href="/cahier-lumineux-php/assets/css/custom.css">
+<link rel="stylesheet" href="/mairie/assets/css/custom.css">
 <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 </head>
 <body class="min-h-screen flex flex-col bg-background text-foreground font-sans">
@@ -95,7 +95,7 @@ $SETTINGS = get_all_settings($pdo);
 <header class="sticky top-0 z-40 border-b border-border/60 bg-background/85 backdrop-blur-xl">
   <div class="container-page flex h-20 items-center justify-between gap-6">
     <a href="<?= $base ?>/index.php" class="flex items-center gap-3 group">
-      <img src="/cahier-lumineux-php/assets/img/logo.jpg" alt="Armoiries de la Mairie de Chérif Lo" class="h-12 w-12 rounded-full object-cover ring-1 ring-primary/20">
+      <img src="/mairie/assets/img/logo.jpg" alt="Armoiries de la Mairie de Chérif Lo" class="h-12 w-12 rounded-full object-cover ring-1 ring-primary/20">
       <div class="leading-tight">
         <div class="font-display text-lg text-primary-deep">Mairie de Chérif Lo</div>
       </div>

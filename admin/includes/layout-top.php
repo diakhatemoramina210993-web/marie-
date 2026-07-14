@@ -52,7 +52,7 @@ $adminNav = [
     },
   };
 </script>
-<link rel="stylesheet" href="/cahier-lumineux-php/assets/css/custom.css">
+<link rel="stylesheet" href="/mairie/assets/css/custom.css">
 <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 </head>
 <body class="min-h-screen bg-background text-foreground font-sans flex">
@@ -70,7 +70,7 @@ $adminNav = [
     <?php endforeach; ?>
   </nav>
   <div class="p-4 border-t border-white/10 space-y-1">
-    <a href="/cahier-lumineux-php/index.php" class="flex items-center gap-3 rounded-xl px-4 py-2.5 text-sm text-primary-foreground/75 hover:bg-white/10 transition">
+    <a href="/mairie/index.php" class="flex items-center gap-3 rounded-xl px-4 py-2.5 text-sm text-primary-foreground/75 hover:bg-white/10 transition">
       <i data-lucide="globe" class="h-4 w-4"></i> Voir le site
     </a>
     <a href="logout.php" class="flex items-center gap-3 rounded-xl px-4 py-2.5 text-sm text-primary-foreground/75 hover:bg-white/10 transition">

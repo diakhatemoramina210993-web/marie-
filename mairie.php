@@ -47,7 +47,7 @@ $commissions = [
 
 <section class="container-page py-20 grid lg:grid-cols-12 gap-12">
   <div class="lg:col-span-5">
-    <img src="/cahier-lumineux-php/assets/img/maire-portrait.jpg" alt="Le Maire de Chérif Lo" width="900" height="1100" loading="lazy" class="rounded-3xl object-cover w-full aspect-[4/5] shadow-elegant mt-6">
+    <img src="/mairie/assets/img/maire-portrait.jpg" alt="Le Maire de Chérif Lo" width="900" height="1100" loading="lazy" class="rounded-3xl object-cover w-full aspect-[4/5] shadow-elegant mt-6">
   </div>
   <div class="lg:col-span-7">
     <div class="text-xs uppercase tracking-[0.28em] text-primary/70">Mot du Maire</div>

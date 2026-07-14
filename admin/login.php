@@ -58,12 +58,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     input: 'rgb(229 231 235 / <alpha-value>)',
   } } } };
 </script>
-<link rel="stylesheet" href="/cahier-lumineux-php/assets/css/custom.css">
+<link rel="stylesheet" href="/mairie/assets/css/custom.css">
 </head>
 <body class="min-h-screen bg-gradient-hero flex flex-col items-center justify-center px-4 py-10 font-sans">
   <div class="w-full max-w-sm mb-6 grid grid-cols-3 rounded-full border border-white/25 bg-white/10 p-1 text-sm font-medium">
-    <a href="/cahier-lumineux-php/compte/inscription.php" class="rounded-full py-2.5 text-center text-primary-foreground/80 hover:text-white transition">Créer un compte</a>
-    <a href="/cahier-lumineux-php/compte/connexion.php" class="rounded-full py-2.5 text-center text-primary-foreground/80 hover:text-white transition">Se connecter</a>
+    <a href="/mairie/compte/inscription.php" class="rounded-full py-2.5 text-center text-primary-foreground/80 hover:text-white transition">Créer un compte</a>
+    <a href="/mairie/compte/connexion.php" class="rounded-full py-2.5 text-center text-primary-foreground/80 hover:text-white transition">Se connecter</a>
     <span class="rounded-full bg-card text-primary py-2.5 text-center shadow-soft">Espace Mairie</span>
   </div>
   <form method="post" action="login.php" class="w-full max-w-sm rounded-3xl bg-card p-8 shadow-elegant">
@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <button type="submit" class="mt-6 w-full rounded-full bg-primary text-primary-foreground px-6 py-3 text-sm font-semibold hover:bg-primary-deep transition">
       Se connecter
     </button>
-    <a href="/cahier-lumineux-php/index.php" class="mt-4 block text-center text-xs text-muted-foreground hover:text-primary">← Retour au site</a>
+    <a href="/mairie/index.php" class="mt-4 block text-center text-xs text-muted-foreground hover:text-primary">← Retour au site</a>
   </form>
 </body>
 </html>

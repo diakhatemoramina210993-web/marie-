@@ -65,7 +65,7 @@ function themed_illustration_url(string $keywords, $seed, int $w = 800, int $h =
 function actualite_image_url(array $actualite): string
 {
     if (!empty($actualite['image'])) {
-        return '/cahier-lumineux-php/assets/img/actualites/' . rawurlencode($actualite['image']);
+        return '/mairie/assets/img/actualites/' . rawurlencode($actualite['image']);
     }
     $keywords = [
         'Événement'  => 'community,celebration,africa',

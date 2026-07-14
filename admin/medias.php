@@ -64,11 +64,11 @@ include __DIR__ . '/includes/layout-top.php';
     <div class="rounded-2xl border border-border bg-card overflow-hidden">
       <div class="aspect-[16/10] bg-secondary relative">
         <?php if ($m['type'] === 'photo' && $m['fichier']): ?>
-          <img src="/cahier-lumineux-php/assets/img/medias/<?= htmlspecialchars($m['fichier']) ?>" alt="" class="h-full w-full object-cover">
+          <img src="/mairie/assets/img/medias/<?= htmlspecialchars($m['fichier']) ?>" alt="" class="h-full w-full object-cover">
         <?php elseif ($m['type'] === 'video'): ?>
           <div class="h-full w-full <?= $m['fichier'] ? 'bg-black' : 'bg-gradient-hero' ?> flex items-center justify-center relative overflow-hidden">
             <?php if ($m['fichier']): ?>
-              <video src="/cahier-lumineux-php/assets/img/medias/<?= htmlspecialchars($m['fichier']) ?>" class="video-thumb-source absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-500" preload="auto" muted playsinline aria-hidden="true"></video>
+              <video src="/mairie/assets/img/medias/<?= htmlspecialchars($m['fichier']) ?>" class="video-thumb-source absolute inset-0 h-full w-full object-cover opacity-0 transition-opacity duration-500" preload="auto" muted playsinline aria-hidden="true"></video>
               <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-black/30 to-black/50"></div>
             <?php endif; ?>
             <div class="relative h-14 w-14 rounded-full bg-white/95 grid place-items-center text-primary-deep">

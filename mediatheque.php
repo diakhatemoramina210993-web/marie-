@@ -23,9 +23,9 @@ $videos = $pdo->query("SELECT * FROM medias WHERE type = 'video' ORDER BY ordre 
   <?php else: ?>
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
       <?php foreach ($photos as $p): ?>
-        <a href="/cahier-lumineux-php/assets/img/medias/<?= htmlspecialchars($p['fichier']) ?>" target="_blank" rel="noopener"
+        <a href="/mairie/assets/img/medias/<?= htmlspecialchars($p['fichier']) ?>" target="_blank" rel="noopener"
            class="group aspect-square rounded-2xl overflow-hidden relative block">
-          <img src="/cahier-lumineux-php/assets/img/medias/<?= htmlspecialchars($p['fichier']) ?>" alt="<?= htmlspecialchars($p['titre']) ?>" loading="lazy" class="h-full w-full object-cover group-hover:scale-105 transition duration-300">
+          <img src="/mairie/assets/img/medias/<?= htmlspecialchars($p['fichier']) ?>" alt="<?= htmlspecialchars($p['titre']) ?>" loading="lazy" class="h-full w-full object-cover group-hover:scale-105 transition duration-300">
           <div class="absolute inset-0 bg-primary-deep/40 group-hover:bg-primary-deep/10 transition"></div>
           <div class="absolute inset-x-0 bottom-0 p-4 text-primary-foreground text-sm font-medium"><?= htmlspecialchars($p['titre']) ?></div>
         </a>
@@ -44,12 +44,12 @@ $videos = $pdo->query("SELECT * FROM medias WHERE type = 'video' ORDER BY ordre 
       <?php foreach ($videos as $v): ?>
         <button type="button"
           class="video-trigger text-left rounded-3xl overflow-hidden border border-border bg-card group cursor-pointer shadow-soft hover:shadow-elegant hover:-translate-y-1 transition-all duration-300"
-          data-video-src="<?= $v['fichier'] ? htmlspecialchars('/cahier-lumineux-php/assets/img/medias/' . $v['fichier']) : '' ?>"
+          data-video-src="<?= $v['fichier'] ? htmlspecialchars('/mairie/assets/img/medias/' . $v['fichier']) : '' ?>"
           data-video-url="<?= htmlspecialchars($v['video_url'] ?? '') ?>"
           data-video-title="<?= htmlspecialchars($v['titre']) ?>">
           <span class="aspect-video relative flex items-center justify-center overflow-hidden <?= $v['fichier'] ? 'bg-black' : 'bg-gradient-hero' ?>">
             <?php if ($v['fichier']): ?>
-              <video src="/cahier-lumineux-php/assets/img/medias/<?= htmlspecialchars($v['fichier']) ?>" class="video-thumb-source absolute inset-0 h-full w-full object-cover scale-105 group-hover:scale-110 opacity-0 transition-opacity transition-transform duration-500" preload="auto" muted playsinline aria-hidden="true"></video>
+              <video src="/mairie/assets/img/medias/<?= htmlspecialchars($v['fichier']) ?>" class="video-thumb-source absolute inset-0 h-full w-full object-cover scale-105 group-hover:scale-110 opacity-0 transition-opacity transition-transform duration-500" preload="auto" muted playsinline aria-hidden="true"></video>
             <?php endif; ?>
             <span class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/40 to-black/60"></span>
             <span class="absolute top-3 left-3 rounded-full bg-white/95 text-primary-deep text-[11px] font-semibold uppercase tracking-wider px-3 py-1">Vidéo</span>

@@ -113,7 +113,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } },
   };
 </script>
-<link rel="stylesheet" href="/cahier-lumineux-php/assets/css/custom.css">
+<link rel="stylesheet" href="/mairie/assets/css/custom.css">
 <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
 </head>
 <body class="min-h-screen bg-background text-foreground font-sans">
@@ -122,11 +122,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <!-- LEFT: form -->
   <div class="flex flex-col px-6 md:px-16 py-8 relative">
     <div class="flex items-center justify-between">
-      <a href="/cahier-lumineux-php/index.php" class="flex items-center gap-2.5">
-        <img src="/cahier-lumineux-php/assets/img/logo.jpg" alt="Mairie de Chérif Lo" class="h-10 w-10 rounded-full object-cover ring-1 ring-primary/20">
+      <a href="/mairie/index.php" class="flex items-center gap-2.5">
+        <img src="/mairie/assets/img/logo.jpg" alt="Mairie de Chérif Lo" class="h-10 w-10 rounded-full object-cover ring-1 ring-primary/20">
         <span class="font-display font-bold text-primary-deep">Mairie de Chérif Lo</span>
       </a>
-      <a href="/cahier-lumineux-php/index.php" class="hidden sm:inline-flex items-center gap-2 rounded-full border border-border px-4 py-2 text-xs font-medium text-foreground/70 hover:border-primary/40 hover:text-primary transition">
+      <a href="/mairie/index.php" class="hidden sm:inline-flex items-center gap-2 rounded-full border border-border px-4 py-2 text-xs font-medium text-foreground/70 hover:border-primary/40 hover:text-primary transition">
         <i data-lucide="arrow-left" class="h-3.5 w-3.5"></i> Retour sur la page d'accueil
       </a>
     </div>
@@ -201,7 +201,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div>
         <p class="mt-4 text-center text-xs text-muted-foreground">
           Vous êtes agent de la mairie ?
-          <a href="/cahier-lumineux-php/admin/login.php" class="text-primary font-medium hover:text-primary-deep">Espace Mairie</a>
+          <a href="/mairie/admin/login.php" class="text-primary font-medium hover:text-primary-deep">Espace Mairie</a>
         </p>
       </div>
     </div>
@@ -210,7 +210,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <!-- RIGHT: visual panel -->
   <div class="hidden lg:block relative overflow-hidden bg-gradient-hero">
     <div class="absolute inset-0 opacity-30">
-      <img src="/cahier-lumineux-php/assets/img/hero-cherif-lo.jpg" alt="" class="h-full w-full object-cover">
+      <img src="/mairie/assets/img/hero-cherif-lo.jpg" alt="" class="h-full w-full object-cover">
     </div>
     <div class="absolute -right-32 -top-32 h-96 w-96 rounded-full bg-white/5"></div>
     <div class="absolute -left-24 bottom-0 h-72 w-72 rounded-full bg-accent/10"></div>

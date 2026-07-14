@@ -170,11 +170,11 @@ include __DIR__ . "/includes/header.php";
         <?= htmlspecialchars($trackingCode) ?>
       </div>
       <div class="mt-8 flex flex-wrap justify-center gap-3">
-        <a href="/cahier-lumineux-php/compte/index.php" class="rounded-full bg-primary text-primary-foreground px-6 py-3 text-sm font-semibold hover:bg-primary-deep transition">Voir dans Mon espace</a>
+        <a href="/mairie/compte/index.php" class="rounded-full bg-primary text-primary-foreground px-6 py-3 text-sm font-semibold hover:bg-primary-deep transition">Voir dans Mon espace</a>
         <a href="<?= htmlspecialchars($whatsappRecapLink) ?>" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 rounded-full bg-[#25D366] text-white px-6 py-3 text-sm font-semibold hover:opacity-90 transition">
           <i data-lucide="message-circle" class="h-4 w-4"></i> Prévenir la mairie sur WhatsApp
         </a>
-        <a href="/cahier-lumineux-php/index.php" class="rounded-full border border-input px-6 py-3 text-sm font-medium hover:bg-secondary transition">Retour à l'accueil</a>
+        <a href="/mairie/index.php" class="rounded-full border border-input px-6 py-3 text-sm font-medium hover:bg-secondary transition">Retour à l'accueil</a>
       </div>
     </div>
   </section>
